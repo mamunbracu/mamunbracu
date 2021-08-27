@@ -1,5 +1,5 @@
 
-![I am Web Developer](https://drive.google.com/file/d/1aKfybcBsmDhCDP0gP3JNBFyPXV_K_AaK/view?usp=sharing)
+![I am Web Developer](https://drive.google.com/file/d/1aKfybcBsmDhCDP0gP3JNBFyPXV_K_AaK/view)
 ## Hi, I'm Md Mamun Uddin 👋
 
 <h3 align="center">I’m a Full stack (MERN) web developer who is passionate about making websites with 100% client satisfaction. I want to learn new technology. I love to solve real life problem and passionate about to work for better user experience. include ReactJS, JavaScript as well as PHP.</h3>
